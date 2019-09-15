@@ -7,10 +7,6 @@ Test Python code using **unit tests** and build a **Python package**. Build pred
 
 **Projects:**
 
-- *Software Engineering Fundamentals: Build a Python Package.* 
-
-  Write a Python package using software engineering best practices for writing production level code.
-
 - *Machine Learning in Production. Deploy a Sentiment Analysis Model.*
 
   Using SageMaker, deploy a PyTorch sentiment analysis model, which is trained to recognize the sentiment of movie reviews (positive or negative).
@@ -27,4 +23,4 @@ Test Python code using **unit tests** and build a **Python package**. Build pred
 
 ---
 
-*Last update: 8 September 2019*
+*Last update: 14 September 2019*
