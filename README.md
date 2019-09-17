@@ -1,7 +1,7 @@
 # Machine Learning Engineer Nanodegree
 **Objectives:** 
 
-Test Python code using **unit tests** and build a **Python package**. Build predictive models using a variety of **unsupervised and supervised machine learning** techniques. Understand cloud deployment terminology and best practices. Use **Amazon SageMaker** to **deploy** machine learning models **to production environments**, such a sa web application or piece of hardware. **A/B test** two different deployed models and evaluate their performance. Utilize an **API** to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
+Test Python code using unit tests and build a Python package. Build predictive models using a variety of unsupervised and supervised machine learning techniques. Understand cloud deployment terminology and best practices. Use Amazon SageMaker to deploy machine learning models to production environments, such a sa web application or piece of hardware. A/B test two different deployed models and evaluate their performance. Utilize an API to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
 
 <br>
 
@@ -23,4 +23,4 @@ Test Python code using **unit tests** and build a **Python package**. Build pred
 
 ---
 
-*Last update: 14 September 2019*
+*Last update: 15 September 2019*
