@@ -1,5 +1,9 @@
 # Capstone Proposal Review
 
+Review: 20 September 2019
+
+<br>
+
 ### Meets Specifications 
 
 You clearly have a solid understanding of your dataset and your approach to this problem. 
