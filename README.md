@@ -11,16 +11,24 @@ Test Python code using unit tests and build a Python package. Build predictive m
 
   Using SageMaker, deploy a PyTorch sentiment analysis model, which is trained to recognize the sentiment of movie reviews (positive or negative).
 
+  - [Project]() 
+
 - *Machine Learning Case Studies. Plagiarism Detector.*
 
-  Engineer features that can help identify cases of plagiarism in text and deploy a trained plagiarism detection model using Amazon SageMaker. 
+  Engineer features that can help identify cases of plagiarism in text and deploy a trained plagiarism detection model using Amazon SageMaker.
+
+  - [Project]()
 
 - *Machine Learning Capstone Project*
 
-  Complete a final project that involves data exploration and machine learning.
+  A final project that involves data exploration and machine learning.
+  
+  - [Project Specification]()
+  - [Project Proposal]() and [Review from Udacity]()
+  - [Project]()
 
 <br>
 
 ---
 
-*Last update: 15 September 2019*
+*Last update: 19 September 2019*
