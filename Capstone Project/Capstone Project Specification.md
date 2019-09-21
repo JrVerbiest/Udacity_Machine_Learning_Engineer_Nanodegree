@@ -1,6 +1,10 @@
+
+
 ## Capstone Project Specification
 
 ### Proposal
+
+[Project proposal template from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/capstone_proposal_template.md)
 
 | CRITERIA            | MEETS SPECIFICATIONS                                         |
 | :------------------ | :----------------------------------------------------------- |
@@ -16,6 +20,8 @@
 ---
 
 ### Project
+
+[Project report template from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/capstone_report_template.md)
 
 **Definition**
 
