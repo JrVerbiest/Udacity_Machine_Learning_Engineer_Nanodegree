@@ -9,13 +9,13 @@
 
   Using SageMaker, deploy a PyTorch sentiment analysis model, which is trained to recognize the sentiment of movie reviews (positive or negative).
 
-  - [Link to project files](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Machine%20Learning%20in%20Production) - this is still work in progress
+  - Project: work in progress (deadline 31 October 2019)
 
 - *Machine Learning Case Studies. Plagiarism Detector.*
 
   Engineer features that can help identify cases of plagiarism in text and deploy a trained plagiarism detection model using Amazon SageMaker.
 
-  - Project: work in progress
+  - Project: work in progress  (deadline 31 October 2019)
 
 - *Machine Learning Capstone Project*
 
@@ -23,10 +23,10 @@
   
   - [Project Specification](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Capstone%20Project%20Specification.md)
   - [Project Proposal](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf) and [review from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Capstone%20Proposal%20Review.md)
-  - Project: work in progress
+  - Project: work in progress  (deadline 28 November 2019)
 
 <br>
 
 ---
 
-*Last update: 21 September 2019*
+*Last update: 23 September 2019*
