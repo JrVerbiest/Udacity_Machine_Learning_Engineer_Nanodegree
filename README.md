@@ -1,4 +1,7 @@
+![Udacity-Machine-Learning-Engineer-Nanodegree](Udacity-Machine-Learning-Engineer-Nanodegree.jpg)
+
 # Machine Learning Engineer Nanodegree
+
 **Objectives:** Build predictive models using a variety of unsupervised and supervised machine learning techniques. Understand cloud deployment terminology and best practices. Use Amazon SageMaker to deploy machine learning models to production environments, such a sa web application or piece of hardware. A/B test two different deployed models and evaluate their performance. Utilize an API to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
 
 <br>
