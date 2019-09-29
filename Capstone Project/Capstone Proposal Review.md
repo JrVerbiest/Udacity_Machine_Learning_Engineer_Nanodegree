@@ -1,6 +1,6 @@
 # Capstone Proposal Review
 
-Review: 20 September 2019
+Review date: 20 September 2019
 
 <br>
 
