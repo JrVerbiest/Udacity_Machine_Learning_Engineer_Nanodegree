@@ -14,15 +14,11 @@
 
   - [Project](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Deployment%20Project%20Sentiment%20Analysis) and [review from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Deployment%20Project%20Sentiment%20Analysis/Deployment%20Project%20Sentiment%20Analysis%20Review.md)
 
-    
-
 - *Machine Learning Case Studies. Plagiarism Detector.*
 
   Engineer features that can help identify cases of plagiarism in text and deploy a trained plagiarism detection model using Amazon SageMaker.
 
   - Project (not started)
-
-    
 
 - *Machine Learning Capstone Project*
 
