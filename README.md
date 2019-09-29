@@ -12,7 +12,7 @@
 
   Using SageMaker, deploy a PyTorch sentiment analysis model, which is trained to recognize the sentiment of movie reviews (positive or negative).
 
-  - Project: work in progress (deadline 31 October 2019)
+  - Project: work in progress (submit for review)
 
 - *Machine Learning Case Studies. Plagiarism Detector.*
 
