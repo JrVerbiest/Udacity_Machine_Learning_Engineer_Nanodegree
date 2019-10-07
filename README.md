@@ -16,7 +16,7 @@ More information, visit the [Udacity Machine Learning Nanodegree webpage](https:
 
 - *Machine Learning in Production. Deploy a Sentiment Analysis Model.*
 
-  Using SageMaker, deploy a PyTorch sentiment analysis model, which is trained to recognize the sentiment of movie reviews (positive or negative).
+  Deploy, using Sagemaker, a PyTorch sentiment analysis model to recognize the sentiment of movie reviews (positive or negative).
 
   - [Project](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Deployment%20Project%20Sentiment%20Analysis) and [review from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Deployment%20Project%20Sentiment%20Analysis/Deployment%20Project%20Sentiment%20Analysis%20Review.md)
 
@@ -38,4 +38,4 @@ More information, visit the [Udacity Machine Learning Nanodegree webpage](https:
 
 ---
 
-*Last update: 29 September 2019*
+*Last update: 7 October 2019*
