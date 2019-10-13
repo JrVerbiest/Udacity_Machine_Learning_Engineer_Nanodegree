@@ -30,12 +30,12 @@ More information, visit the [Udacity Machine Learning Nanodegree webpage](https:
 
   A final project that involves data exploration and machine learning.
   
-  - [Project Specification](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Capstone%20Project%20Specification.md)
-  - [Project Proposal](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf) and [review from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Capstone%20Proposal%20Review.md)
+  - [About]()
+  - [Project Proposal](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf)
   - Project Report (work in progress)
 
 <br>
 
 ---
 
-*Last update: 8 October 2019*
+*Last update: 11 October 2019*
