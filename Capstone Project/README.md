@@ -1,4 +1,4 @@
-# Urban Sound
+# Capstone Project: Urban Sound
 
 Environmental noise or noise pollution, which is defined as an unwanted or harmful outdoor sound created by human activity [1], is a growing problem in urban area. This noise pollution can affect the quality of life and health. Recent studies [2] have shown that exposure to noise pollution may increase the health risk. Therefore, decreasing the noise in the human environment can contribute to increase both the quality of life and health.
 
@@ -11,9 +11,31 @@ The design of a real time smart embedded monitoring system is, given the limit t
 <br>
 
 - [Project Specification](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Capstone%20Project%20Specification.md)
-- [Project Proposal](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf) and [review from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Capstone%20Proposal%20Review.md)
-- Project Report (work in progress)
-- Jupyter Notebook (work in progress)
+- [Project Proposal](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf) & [review from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Capstone%20Proposal%20Review.md)
+- [Project Report](work in progress)
+- Notebooks: 
+  - [Part 1: feature engineering and CNN]()
+  - [Part 2: Cross Validation]()
+
+<br>
+
+##  Software & libraries 
+
+- Python 3.7.3
+- pandas 0.24.2
+- NumPy 1.16.4
+- Matplotlib 3.1.0
+- Scikit-learn: 0.21.2
+- LibROSA 0.6.3
+- Keras 2.2.4
+
+<br>
+
+## UrbanSound8k Dataset
+
+[Urbansound8k](https://urbansounddataset.weebly.com/urbansound8k.html) dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes: air_conditioner, car_horn, children_playing, dog_bark, drilling, enginge_idling, gun_shot, jackhammer, siren, and street_music.
+
+[A Dataset and Taxonomy for Urban Sound Research](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_urbansound_acmmm14.pdf), J. Salamon, C. Jacoby and J. P. Bello, 22nd ACM International Conference on Multimedia, Orlando USA, Nov. 2014.
 
 <br>
 
@@ -27,4 +49,4 @@ The design of a real time smart embedded monitoring system is, given the limit t
 
 ---
 
-Last modified: 13 October 2019
+Last modified: 9 November 2019
