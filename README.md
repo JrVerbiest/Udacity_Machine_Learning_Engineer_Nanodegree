@@ -24,7 +24,7 @@ More information, visit the [Udacity Machine Learning Nanodegree webpage](https:
 
   Engineer features that can help identify cases of plagiarism in text and deploy a trained plagiarism detection model using Amazon SageMaker.
 
-  - Project (work in progress)
+  - [Project](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Plagiarism%20Detection)
 
 - *Machine Learning Capstone Project*
 
@@ -38,4 +38,4 @@ More information, visit the [Udacity Machine Learning Nanodegree webpage](https:
 
 ---
 
-*Last update: 1 November 2019*
+*Last update: 8 November 2019*
