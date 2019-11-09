@@ -25,7 +25,7 @@ The design of a real time smart embedded monitoring system is, given the limit t
 - pandas 0.24.2
 - NumPy 1.16.4
 - Matplotlib 3.1.0
-- Scikit-learn: 0.21.2
+- Scikit-learn 0.21.2
 - LibROSA 0.6.3
 - Keras 2.2.4
 
