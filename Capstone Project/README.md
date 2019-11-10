@@ -14,8 +14,8 @@ The design of a real time smart embedded monitoring system is, given the limit t
 - [Project Proposal](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf) & [review from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Capstone%20Proposal%20Review.md)
 - [Project Report](work in progress)
 - Notebooks: 
-  - [Part 1: feature engineering and CNN]()
-  - [Part 2: Cross Validation]()
+  - [Part 1: feature engineering and CNN](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/UrbanSound8k%20-%20Capstone%20Project%20-%20Part%201.ipynb)
+  - [Part 2: Cross Validation](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/UrbanSound8k%20-%20Capstone%20Project%20-%20Part%202.ipynb)
 
 <br>
 
@@ -49,4 +49,4 @@ The design of a real time smart embedded monitoring system is, given the limit t
 
 ---
 
-Last modified: 9 November 2019
+Last modified: 10 November 2019
