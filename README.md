@@ -32,10 +32,10 @@ More information, visit the [Udacity Machine Learning Nanodegree webpage](https:
   
   - [About](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/README.md)
   - [Project Proposal](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf)
-  - Project Report (work in progress)
+  - [Project Report](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Report.pdf) (under review)
 
 <br>
 
 ---
 
-*Last update: 9 November 2019*
+*Last update: 1à November 2019*
