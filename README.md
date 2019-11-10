@@ -38,4 +38,4 @@ More information, visit the [Udacity Machine Learning Nanodegree webpage](https:
 
 ---
 
-*Last update: 1à November 2019*
+*Last update: 10 November 2019*
