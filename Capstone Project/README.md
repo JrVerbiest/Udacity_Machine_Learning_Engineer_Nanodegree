@@ -12,7 +12,7 @@ The design of a real time smart embedded monitoring system is, given the limit t
 
 - [Project Specification](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Capstone%20Project%20Specification.md)
 - [Project Proposal](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Proposal.pdf) & [review from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Capstone%20Proposal%20Review.md)
-- [Project Report](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Report.pdf) (under review)
+- [Project Report](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Report.pdf) & [review from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/Capstone%20Report%20Review.md)
 - Notebooks: 
   - [Part 1: feature engineering and CNN](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/UrbanSound8k%20-%20Capstone%20Project%20-%20Part%201.ipynb)
   - [Part 2: Cross Validation](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Capstone%20Project/UrbanSound8k%20-%20Capstone%20Project%20-%20Part%202.ipynb)
@@ -49,4 +49,4 @@ The design of a real time smart embedded monitoring system is, given the limit t
 
 ---
 
-Last modified: 10 November 2019
+Last modified: 11 November 2019
