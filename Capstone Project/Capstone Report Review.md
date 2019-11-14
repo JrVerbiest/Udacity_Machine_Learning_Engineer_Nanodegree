@@ -95,7 +95,7 @@ Also, good discussion!
 
 <br>
 
-*Student clearly defines a benchmark result or threshold for comparing performances of solutions obtained. *
+*Student clearly defines a benchmark result or threshold for comparing performances of solutions obtained.*
 
 Comparing to well defined, objective, concrete model/result is always the best approach for obtaining a baseline for our own work, and that's what you have here. Good choice.
 
