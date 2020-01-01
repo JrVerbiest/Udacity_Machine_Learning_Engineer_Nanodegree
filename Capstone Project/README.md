@@ -1,4 +1,4 @@
-# Capstone Project: Urban Sound
+# Capstone Project: Urban Sound (Urbansound8k)
 
 Environmental noise or noise pollution, which is defined as an unwanted or harmful outdoor sound created by human activity [1], is a growing problem in urban area. This noise pollution can affect the quality of life and health. Recent studies [2] have shown that exposure to noise pollution may increase the health risk. Therefore, decreasing the noise in the human environment can contribute to increase both the quality of life and health.
 
@@ -49,4 +49,4 @@ The design of a real time smart embedded monitoring system is, given the limit t
 
 ---
 
-Last modified: 15 November 2019
+Last modified: 1 January 2020
