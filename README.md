@@ -6,7 +6,7 @@ Period: 28 August 2019 - 28 November 2019 (Ongoing)
 
 <br>
 
-**Objectives:** Build predictive models using a variety of unsupervised and supervised machine learning techniques. Understand cloud deployment terminology and best practices. Use Amazon SageMaker to deploy machine learning models to production environments, such a as web application or piece of hardware. A/B test two different deployed models and evaluate their performance. Utilize an API to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
+**Objectives:** Build predictive models using a variety of unsupervised and supervised machine learning techniques. Understand cloud deployment terminology and best practices. Use Amazon SageMaker to deploy machine learning models to production environments, such as a web application or piece of hardware. A/B test two different deployed models and evaluate their performance. Utilize an API to deploy a model to a website such that it responds to user input, dynamically. Update a deployed model, in response to changes in the underlying data source.
 
 More information, visit the [Udacity Machine Learning Nanodegree webpage](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t).
 
@@ -16,7 +16,7 @@ More information, visit the [Udacity Machine Learning Nanodegree webpage](https:
 
 - *Machine Learning in Production. Deploy a Sentiment Analysis Model.*
 
-  Deploy, using Sagemaker, a PyTorch sentiment analysis model to recognize the sentiment of movie reviews (positive or negative).
+  Using SageMaker, deploy a PyTorch sentiment analysis model, which is trained to recognize the sentiment of movie reviews (positive or negative).
 
   - [Project](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/tree/master/Deployment%20Project%20Sentiment%20Analysis) and [review from Udacity](https://github.com/JrVerbiest/Udacity_Machine_Learning_Engineer_Nanodegree/blob/master/Deployment%20Project%20Sentiment%20Analysis/Deployment%20Project%20Sentiment%20Analysis%20Review.md)
 
@@ -38,4 +38,4 @@ More information, visit the [Udacity Machine Learning Nanodegree webpage](https:
 
 ---
 
-*Last update: 15 November 2019*
+*Last update: 4 July 2021*
